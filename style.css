@@ -1,15 +1,14 @@
 *{
+    max-width: 480px;
     margin: 0;
     padding: 0;
     background-repeat: no-repeat;
 }
 .body{
     font-style: 28px;
-    width: 480px;
 }
 
 .block1{
-    position: fixed;
     background-image: url(./img/block1_1.png);
     height: 1242px;
     font-family: Montserrat;
