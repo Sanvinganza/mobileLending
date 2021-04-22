@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+}
+.body{
+    font-style: 28px;
+    width: 480px;
+}
+
+.block1{
+    background-image: url(./img/block1_1.png);
+    height: 1242px;
+    font-family: Montserrat;
+    font-weight: 800;
+}
+
+.title{
+    padding-top: 16px;
+    text-align: center;
+    font-size: 28px;
+    line-height: 30px;
+}
+
+.discribe{
+    font-size: 26px;
+}
+
+.Abs_text{
+    padding-left: 150px;
+    padding-top: 20px;
+    font-size: 20px;
+    line-height: 20px;
+    color: #261D88;
+    text-align: center;
+    font-style: italic;
+}
+
+.times{
+    margin-top: 25px;
+    height: 50px;
+    background-image: url(./img/72time.png);
+}
+
+.procent{
+    text-align: center;
+    margin-top: 407px;
+    color: white;
+    font-size: 22px;
+}
+
+.goals{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-ok{
+    height: 43px;
+    width: 43px;
+    background-image: url(./img/ok.png);
+}
+
+.start{
+    margin-top: 40px;
+    font-style: unset;
+    text-align: center;
+    font-size: 20px;
+}
+.three-rectangles{
+    display: flex;
+    justify-content: center;
+}
+
+.rectangle{
+    width: 99.9px;
+    height: 51px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    margin: 16px 14px 0 14px;
+}
+
+.low-prise{
+    margin-top: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight:500;
+    font-style: normal;
+    font-size:20px; 
+    line-height: 22px; 
+}
+
+.round{
+    height: 54px;
+    width: 54px;
+    background-image: url(./img/round.png);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 900;
+    font-size: 25px;
+    color: white;
+    margin: 0 5px 0 5px;
+}
+
+.btn-buy{
+    width: 375.55px;
+    height: 67px;
+    background: linear-gradient(180deg, #BC012E 0%, #DA0034 100%);
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 25px 0 25px 51px;
+    color: white;
+    font-size: 24px;
+    line-height: 28.49px;
+}
+
+.titleName{
+    font-size: 28px;
+    line-height: 28px;
+    font-weight: 700;
+    margin: 10px;
+}
+
