@@ -9,6 +9,7 @@
 }
 
 .block1{
+    position: fixed;
     background-image: url(./img/block1_1.png);
     height: 1242px;
     font-family: Montserrat;
