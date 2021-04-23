@@ -5,14 +5,20 @@
 }
 .body{
     font-style: 28px;
+    display: flex;
+    flex-direction: column;
+    background-color: grey;
+    justify-content: center;
 }
 
 .content{
-    background-color: transparent;
+    display: flex;
+    flex-direction: column;
     justify-content: center;
 }
 
 .block1{
+    align-self: center;
     background-image: url(./img/block1_1.png);
     height: 1242px;
     font-family: Montserrat;
@@ -129,3 +135,25 @@
     font-weight: 700;
     margin: 10px;
 }
+
+.grey-rectangle{
+    background-color: #C4C4C4;
+    height: 298px;
+    width: 480px;
+    align-self: center;
+}
+
+.block2{
+    width: 480px;
+    background-image: url(./img/block2.png);
+    height: 703px;
+    font-size: 33px;
+    line-height: 35px;
+    align-self: center;
+    width: 480px;
+}
+
+.decribe{
+    
+}
+
