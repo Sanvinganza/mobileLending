@@ -1,11 +1,15 @@
 *{
-    max-width: 480px;
     margin: 0;
     padding: 0;
     background-repeat: no-repeat;
 }
 .body{
     font-style: 28px;
+}
+
+.content{
+    background-color: transparent;
+    justify-content: center;
 }
 
 .block1{
@@ -125,4 +129,3 @@
     font-weight: 700;
     margin: 10px;
 }
-
