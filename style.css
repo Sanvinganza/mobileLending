@@ -150,10 +150,39 @@
     font-size: 33px;
     line-height: 35px;
     align-self: center;
-    width: 480px;
+    font-family: 'Montserrat';
+    color: black;
 }
 
 .decribe{
-    
+    padding: 40px 0 0 64px;
 }
 
+.position{
+    margin-top: 500px;
+}
+
+.block3{
+    width: 480px;
+    background-image: url(./img/block3.png);
+    height: 650px;
+    align-self: center;
+    font-family: 'Montserrat';
+    color: black;
+}
+
+.dontPay{
+    font-size: 30px;
+    line-height: 30px;
+    font-weight: 700;
+    padding: 9px 39px;  
+}
+
+.text{
+    font-size: 16px;
+    line-height: 13px;
+    padding: 200px 0 0 142px;
+    font-family: 'Montserrat';
+    font-weight: bold;
+
+}
